@@ -1,2 +1,2 @@
 # data-platform-engineering
-My Professional learning journey and hands-on projects in Data Platform Engineering
+This repository documents my learning path and hands-on projects in data platform engineering
